@@ -1,0 +1,7 @@
+
+Mon Jan 25 18:48:31 CET 2016
+	* Update to have long passwords
+	* Find out that the dummy function marker does not work with -O2
+
+Sun Jan 24 16:28:04 CET 2016
+	* project creation
