@@ -15,6 +15,7 @@ $ nk -s T,9999
 Then on each remote machine launch the bot application, passing as parameter the name you want to give to the slave/bot
 
 Example:
+
 $ ./bot Bot1
 
 Bots are targeted by their respectives names. Alternative all bots can be commanded at once using the identifier ALL.
@@ -23,7 +24,9 @@ The command syntax is:
 BotName|All:cmd
 
 Examples:
+
 all:uname -a
+
 Bot1:ls /etc
 
 These commands are entered in the master application.
